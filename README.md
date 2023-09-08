@@ -1,4 +1,4 @@
-<header>
+<!wifi passwords. /txt<header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -11,7 +11,7 @@
 
 _Get started using GitHub in less than an hour._
 
-</header>
+<wifi passwords. txt/header>
 
 <!--
   <<< Author notes: Course start >>>
